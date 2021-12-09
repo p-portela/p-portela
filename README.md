@@ -9,8 +9,17 @@ Ich bin Pedro Portela, und studiere derzeit Informatik an der TU Dortmund.
 
 ### Howdy! 👋
 
-I'm Pedro Portela, and I study computer science at the Technical University of Dortmund.
+I'm Pedro Portela, and I currently study computer science at the Technical University of Dortmund.
 
 - 🌱 I'm currently learning Python and Flask
-- 📫 You can reach me best at my email down below
-- 👀 My interests include Computer Vision, Machine Learning as well as Networks.
+- 📫 You can reach me best at my email on the left
+- 👀 My interests include Computer Vision, Machine Learning as well as Networks
+---
+
+### Fala galera do zap! 👋
+
+Meu nome é Pedro Portela, e atualmente estudo ciência da computação na Universidade Técnica de Dortmund
+
+- 🌱 Atualmente estou aprendendo Python e Flask
+- 📫 Você pode entrar em contato comigo através do meu email à esquerda
+- 👀 Meus interesses incluem Visão computacional, Machine Learning e Redes
