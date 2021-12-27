@@ -3,7 +3,7 @@
 Ich bin Pedro Portela, und studiere derzeit Informatik an der TU Dortmund.
 
 - 🌱 Zurzeit lerne ich Python und Flask
-- 📫 Du kannst mich am bestens unter meiner E-Mail erreichen
+- 📫 Du kannst mich am bestens unter meiner [E-Mail](mailto:pportela@disroot.org) erreichen.
 - 👀 Meine Interesse umfassen u.a. Computer Vision, Machine Learning sowie Netzwerke.
 ---
 
@@ -12,7 +12,7 @@ Ich bin Pedro Portela, und studiere derzeit Informatik an der TU Dortmund.
 I'm Pedro Portela, and I currently study computer science at the Technical University of Dortmund.
 
 - 🌱 I'm currently learning Python and Flask
-- 📫 You can reach me best at my email on the left
+- 📫 You can reach me best at my [email](mailto:pportela@disroot.org).
 - 👀 My interests include Computer Vision, Machine Learning as well as Networks
 ---
 
@@ -21,5 +21,5 @@ I'm Pedro Portela, and I currently study computer science at the Technical Unive
 Meu nome é Pedro Portela, e atualmente estudo ciência da computação na Universidade Técnica de Dortmund
 
 - 🌱 Atualmente estou aprendendo Python e Flask
-- 📫 Você pode entrar em contato comigo através do meu email à esquerda
+- 📫 Você pode entrar em contato comigo através do meu [email](mailto:pportela@disroot.org).
 - 👀 Meus interesses incluem Visão computacional, Machine Learning e Redes
